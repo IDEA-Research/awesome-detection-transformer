@@ -8,7 +8,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <p>
 <b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b> 
 <br>
-<font size=2>Feng Li*, Hao Zhang*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
+<font size=2>Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
 <br>
 arxiv 2022.
 <a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a>  
