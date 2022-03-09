@@ -139,7 +139,7 @@ arxiv 2022.
 
 ## 2020
 <p>
-<font size=3><b>End-to-End Object Detection with Transformers.</b></font>
+<font size=3><b>[DETR] End-to-End Object Detection with Transformers.</b></font>
 <br>
 <font size=2>Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko.</font>
 <br>
