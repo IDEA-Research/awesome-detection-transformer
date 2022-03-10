@@ -82,6 +82,14 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2107.06278'>[paper]</a> <a href='https://github.com/facebookresearch/MaskFormer'>[code]</a>    
 </p>
 
+<p>
+<font size=3><b>[YOLOS] You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection.</b></font>
+<br>
+<font size=2>Yuxin Fang*, Bencheng Liao*, Xinggang Wang, Jiemin Fang, Jiyang Qi, Rui Wu, Jianwei Niu, Wenyu Liu.</font>
+<br>
+<font size=2>NeurIPS 2021.</font>
+<a href='https://arxiv.org/abs/2106.00666'>[paper]</a> <a href='https://github.com/hustvl/YOLOS'>[code]</a>    
+</p>
 
 <p>
 <font size=3><b>Dynamic DETR: End-to-End Object Detection With Dynamic Attention.</b></font>
