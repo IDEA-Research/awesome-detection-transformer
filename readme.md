@@ -104,7 +104,7 @@ arxiv 2022.
 <p>
 <font size=3><b>Conditional DETR for Fast Training Convergence.</b></font>
 <br>
-<font size=2>Yingming Wang, Xiangyu Zhang, Tong Yang, Jian Sun.</font>
+<font size=2>Depu Meng*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun, Jingdong Wang.</font>
 <br>
 <font size=2>ICCV 2021.</font>
 <a href='https://arxiv.org/abs/2108.06152v2'>[paper]</a> <a href='https://github.com/atten4vis/conditionaldetr'>[code]</a>    
