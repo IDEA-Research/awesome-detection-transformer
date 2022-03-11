@@ -142,7 +142,7 @@ arxiv 2022.
 <br>
 <font size=2>Zhuyu Yao, Jiangbo Ai, Boxun Li, Chi Zhang.</font>
 <br>
-<font size=2>srxiv 2021.</font>
+<font size=2>arxiv 2021.</font>
 <a href='https://arxiv.org/abs/2104.01318'>[paper]</a>
 <!-- <a href='https://github.com/dddzg/up-detr'>[code]</a>     -->
 </p>
