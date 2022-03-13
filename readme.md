@@ -33,6 +33,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>FP-DETR: Detection Transformer Advanced by Fully Pre-training.</b></font>
+<br>
+<font size=2>Wen Wang, Yang Cao, Jing Zhang, Dacheng Tao.</font>
+<br>
+<font size=2>ICLR 2022.</font>
+<a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a>    
+</p>
+
+<p>
 <b>D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention.</b> 
 <br>
 <font size=2>Junyu Lin, Xiaofeng Mao, Yuefeng Chen, Lei Xu, Yuan He, Hui Xue</font>
@@ -99,6 +108,16 @@ arxiv 2022.
 <font size=2>ICCV 2021.</font>
 <a href='https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_Dynamic_DETR_End-to-End_Object_Detection_With_Dynamic_Attention_ICCV_2021_paper.pdf'>[paper]</a> 
 <!-- <a href='https://github.com/atten4vis/conditionaldetr'>[code]</a>     -->
+</p>
+
+<p>
+<font size=3><b>PnP-DETR: Towards Efficient Visual Analysis with Transformers.</b></font>
+<br>
+<font size=2>Tao Wang, Li Yuan, Yunpeng Chen, Jiashi Feng, Shuicheng Yan.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_PnP-DETR_Towards_Efficient_Visual_Analysis_With_Transformers_ICCV_2021_paper.pdf'>[paper]</a> 
+<a href='https://github.com/twangnh/pnp-detr'>[code]</a>
 </p>
 
 <p>
