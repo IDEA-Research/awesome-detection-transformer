@@ -33,6 +33,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>CF-DETR: Coarse-to-Fine Transformers for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Xipeng Cao, Peng Yuan, Bailan Feng, Kun Niu.</font>
+<br>
+<font size=2>AAAI 2022.</font>
+<a href='https://www.aaai.org/AAAI22Papers/AAAI-6312.XipengC.pdf'>[paper]</a>    
+</p>
+
+<p>
 <font size=3><b>FP-DETR: Detection Transformer Advanced by Fully Pre-training.</b></font>
 <br>
 <font size=2>Wen Wang, Yang Cao, Jing Zhang, Dacheng Tao.</font>
