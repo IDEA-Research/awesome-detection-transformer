@@ -42,6 +42,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>ViDT: An Efficient and Effective Fully Transformer-based Object Detector.</b></font>
+<br>
+<font size=2>Hwanjun Song, Deqing Sun, Sanghyuk Chun, Varun Jampani, Dongyoon Han, Byeongho Heo, Wonjae Kim, Ming-Hsuan Yang.</font>
+<br>
+<font size=2>ICLR 2022.</font>
+<a href='https://arxiv.org/abs/2110.03921'>[paper]</a> <a href='https://github.com/naver-ai/vidt'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>CF-DETR: Coarse-to-Fine Transformers for End-to-End Object Detection.</b></font>
 <br>
 <font size=2>Xipeng Cao, Peng Yuan, Bailan Feng, Kun Niu.</font>
