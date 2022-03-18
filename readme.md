@@ -33,6 +33,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>DETReg: Unsupervised Pretraining with Region Priors for Object Detection.</b></font>
+<br>
+<font size=2>Amir Bar, Xin Wang, Vadim Kantorov, Colorado J Reed, Roei Herzig, Gal Chechik, Anna Rohrbach, Trevor Darrell, Amir Globerson.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2106.04550'>[paper]</a> <a href='https://github.com/amirbar/DETReg'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
 <br>
 <font size=2>Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
