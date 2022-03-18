@@ -65,7 +65,7 @@ arxiv 2022.
 <font size=2>Xipeng Cao, Peng Yuan, Bailan Feng, Kun Niu.</font>
 <br>
 <font size=2>AAAI 2022.</font>
-<a href='https://www.aaai.org/AAAI22Papers/AAAI-6312.XipengC.pdf'>[paper]</a> <a href='https://github.com/Hunter-DDM/cfer-document-level-RE'>[code]</a>   
+<a href='https://www.aaai.org/AAAI22Papers/AAAI-6312.XipengC.pdf'>[paper]</a> 
 </p>
 
 <p>
@@ -74,7 +74,7 @@ arxiv 2022.
 <font size=2>Wen Wang, Yang Cao, Jing Zhang, Dacheng Tao.</font>
 <br>
 <font size=2>ICLR 2022.</font>
-<a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a> <a href='https://github.com/encounter1997/FP-DETR'>[code]</a>  
+<a href='https://openreview.net/pdf?id=yjMQuLLcGWK'>[paper]</a>
 </p>
 
 <p>
