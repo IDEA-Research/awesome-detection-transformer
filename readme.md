@@ -157,6 +157,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>WB-DETR: Transformer-Based Detector without Backbone.</b></font>
+<br>
+<font size=2>Fanfan Liu, Haoran Wei, Wenzhe Zhao, Guozhen Li, Jingquan Peng, Zihao Li1.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.pdf'>[paper]</a> 
+</p>
+
+<p>
 <font size=3><b>Conditional DETR for Fast Training Convergence.</b></font>
 <br>
 <font size=2>Depu Meng*, Xiaokang Chen*, Zejia Fan, Gang Zeng, Houqiang Li, Yuhui Yuan, Lei Sun, Jingdong Wang.</font>
