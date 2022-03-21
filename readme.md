@@ -15,21 +15,21 @@ arxiv 2022.
 </p>
 
 <p>
-<font size=3><b>Accelerating DETR Convergence via Semantic-Aligned Matching.</b></font>
-<br>
-<font size=2>Gongjie Zhang,Zhipeng Luo,Yingchen Yu,Kaiwen Cui,Shijian Lu.</font>
-<br>
-<font size=2>CVPR 2022.</font>
-<a href='https://arxiv.org/abs/2203.06883'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>    
-</p>
-
-<p>
 <font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
 <br>
 <font size=2>Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2203.01305'>[paper]</a> <a href='https://github.com/FengLi-ust/DN-DETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Accelerating DETR Convergence via Semantic-Aligned Matching.</b></font>
+<br>
+<font size=2>Gongjie Zhang,Zhipeng Luo,Yingchen Yu,Kaiwen Cui,Shijian Lu.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.06883'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>    
 </p>
 
 <p>
