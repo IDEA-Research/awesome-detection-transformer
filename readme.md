@@ -6,6 +6,52 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 # Papers
 ## 2022
 <p>
+<font size=3><b>TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers.</b></font>
+<br>
+<font size=2>Xuyang Bai, Zeyu Hu, Xinge Zhu, Qingqiu Huang, Yilun Chen, Hongbo Fu, Chiew-Lan Tai.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.11496'>[paper]</a> <a href='https://github.com/XuyangBai/TransFusion'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection.</b></font>
+<br>
+<font size=2>Renrui Zhang, Han Qiu, Tai Wang, Xuanzhuo Xu, Ziyu Guo, Yu Qiao, Peng
+  Gao, Hongsheng Li.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.13310'>[paper]</a> <a href='https://github.com/ZrrSkywalker/MonoDETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer.</b></font>
+<br>
+<font size=2>Kuan-Chih Huang, Tsung-Han Wu, Hung-Ting Su, Winston H. Hsu.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.10981'>[paper]</a> <a href='https://github.com/kuanchihhuang/MonoDTR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[VoxSeT] Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.</b></font>
+<br>
+<font size=2>Chenhang He, Ruihuang Li, Shuai Li, Lei Zhang.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf'>[paper]</a> <a href='https://github.com/skyhehe123/VoxSeT'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[SST] Embracing Single Stride 3D Object Detector with Sparse Transformer.</b></font>
+<br>
+<font size=2>Lue Fan, Ziqi Pang, Tianyuan Zhang, Yu-Xiong Wang, Hang Zhao, Feng Wang, Naiyan Wang, Zhaoxiang Zhang.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2112.06375'>[paper]</a> <a href='https://github.com/TuSimple/SST'>[code]</a>    
+</p>
+
+<p>
 <b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b> 
 <br>
 <font size=2>Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
@@ -109,6 +155,51 @@ arxiv 2022.
 
 
 ## 2021
+<p>
+<font size=3><b>DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries.</b></font>
+<br>
+<font size=2>Yue Wang, Vitor Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon.</font>
+<br>
+<font size=2>CORL 2021.</font>
+<a href='https://arxiv.org/abs/2110.06922'>[paper]</a> <a href='https://github.com/WangYueFt/detr3d'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[VOTR] Voxel Transformer for 3D object detection.</b></font>
+<br>
+<font size=2>Jiageng Mao, Yujing Xue, Minzhe Niu, Haoyue Bai, Jiashi Feng, Xiaodan Liang, Hang Xu, Chunjing Xu.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2109.02497'>[paper]</a> <a href='https://github.com/PointsCoder/VOTR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[SRDet] Suppress-and-Refine Framework for End-to-End 3D Object Detection.</b></font>
+<br>
+<font size=2>Zili Liu, Guodong Xu, Honghui Yang, Minghao Chen, Kuoliang Wu, Zheng Yang, Haifeng Liu, Deng Cai.</font>
+<br>
+<font size=2>arxiv 2021.</font>
+<a href='https://arxiv.org/abs/2103.10042'>[paper]</a> <a href='https://github.com/ZJULearning/SRDet'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[3DETR] An End-to-End Transformer Model for 3D Object Detection.</b></font>
+<br>
+<font size=2>Ishan Misra, Rohit Girdhar, Armand Joulin.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2109.08141'>[paper]</a> <a href='https://github.com/facebookresearch/3detr'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[GroupFree3D] Group-Free 3D Object Detection via Transformers.</b></font>
+<br>
+<font size=2>Ze Liu, Zheng Zhang, Yue Cao, Han Hu, Xin Tong.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/abs/2104.00678'>[paper]</a> <a href='https://github.com/zeliu98/Group-Free-3D'>[code]</a>    
+</p>
+
 <p>
 <font size=3><b>[Mask2Former] Masked-attention Mask Transformer for Universal Image Segmentation .</b></font>
 <br>
