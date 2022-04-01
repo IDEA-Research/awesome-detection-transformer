@@ -15,6 +15,15 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 </p>
 
 <p>
+<font size=3><b>Omni-DETR: Omni-Supervised Object Detection with Transformers.</b></font>
+<br>
+<font size=2>Pei Wang, Zhaowei Cai, Hao Yang, Gurumurthy Swaminathan, Nuno Vasconcelos, Bernt Schiele, Stefano Soatto.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.16089'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection.</b></font>
 <br>
 <font size=2>Renrui Zhang, Han Qiu, Tai Wang, Xuanzhuo Xu, Ziyu Guo, Yu Qiao, Peng
