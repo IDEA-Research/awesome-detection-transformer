@@ -97,6 +97,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>OW-DETR: Open-world Detection Transformer.</b></font>
+<br>
+<font size=2>Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/pdf/2112.01513.pdf'>[paper]</a> <a href='https://github.com/akshitac8/OW-DETR'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
 <br>
 <font size=2>Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
