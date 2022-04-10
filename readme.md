@@ -30,6 +30,16 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 </p>
 
 ## Object Detection
+
+<p>
+<font size=3><b>[MIMDet] Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection.</b></font>
+<br>
+<font size=2>Yuxin Fang*, Shusheng Yang*, Shijie Wang*, Yixiao Ge, Ying Shan, Xinggang Wang</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2204.02964'>[paper]</a> <a href='https://github.com/hustvl/MIMDet'>[code]</a>  
+</p>
+
 <p>
 <font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
 <br>
