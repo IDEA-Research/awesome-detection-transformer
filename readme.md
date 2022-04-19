@@ -6,7 +6,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 
 # Table of Contents
-- [Awesome Detection Transformer ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/IDEACVR/awesome-detection-transformer)
 - [Table of Contents](#table-of-contents)
 - [Papers](#papers)
   - [DETR](#detr)
@@ -386,6 +386,10 @@ arxiv 2022.
 
 # Benchmarks
 [COCO Detection on Paperswithcode.](https://paperswithcode.com/sota/object-detection-on-coco)
+
+[COCO Instance Segmentation on Paperswithcode.](https://paperswithcode.com/sota/instance-segmentation-on-coco)
+
+[COCO Panoptic Segmentation on Paperswithcode.](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev)
 
 [Semantic Segmentation on Paperswithcode.](https://paperswithcode.com/task/semantic-segmentation)
 
