@@ -32,6 +32,15 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 ## Object Detection
 
 <p>
+<font size=3><b>AdaMixer: A Fast-Converging Query-Based Object Detector.</b></font>
+<br>
+<font size=2>Ziteng Gao, Limin Wang, Bing Han, Sheng Guo.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2203.16507'>[paper]</a> <a href='https://github.com/MCG-NJU/AdaMixer'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>[MIMDet] Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection.</b></font>
 <br>
 <font size=2>Yuxin Fang*, Shusheng Yang*, Shijie Wang*, Yixiao Ge, Ying Shan, Xinggang Wang</font>
