@@ -252,7 +252,7 @@ arxiv 2022.
 </p>
 
 
-## Open Vocabulary Objection Detection
+## Open Vocabulary Object Detection
 <p>
 <font size=3><b>OW-DETR: Open-world Detection Transformer.</b></font>
 <br>
