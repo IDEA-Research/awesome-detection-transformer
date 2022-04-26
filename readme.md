@@ -159,6 +159,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>Exploring Plain Vision Transformer Backbones for Object Detection.</b></font>
+<br>
+<font size=2>Yanghao Li, Hanzi Mao, Ross Girshick, Kaiming He.</font>
+<br>
+<font size=2>arXiv 2022.</font>
+<a href='https://arxiv.org/abs/2203.16527'>[paper]</a> <a href='https://github.com/ViTAE-Transformer/ViTDet'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>[YOLOS] You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection.</b></font>
 <br>
 <font size=2>Yuxin Fang*, Bencheng Liao*, Xinggang Wang, Jiemin Fang, Jiyang Qi, Rui Wu, Jianwei Niu, Wenyu Liu.</font>
