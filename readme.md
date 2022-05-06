@@ -388,8 +388,18 @@ arxiv 2022.
 <br>
 <font size=2>Bowen Cheng, Ishan Misra, Alexander G. Schwing, Alexander Kirillov, Rohit Girdhar.</font>
 <br>
-<font size=2>arxiv 2021.</font>
+<font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2112.01527'>[paper]</a> <a href='https://github.com/facebookresearch/Mask2Former'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[Panoptic SegFormer] Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with
+Transformers.</b></font>
+<br>
+<font size=2>Zhiqi Li, Wenhai Wang, Enze Xie, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo, Tong Lu.</font>
+<br>
+<font size=2>arxiv 2021.</font>
+<a href='https://arxiv.org/pdf/2109.03814.pdf?ref=https://githubhelp.com'>[paper]</a> <a href='https://github.com/zhiqi-li/Panoptic-SegFormer'>[code]</a>    
 </p>
 
 <p>
@@ -399,6 +409,24 @@ arxiv 2022.
 <br>
 <font size=2>NeurIPS 2021.</font>
 <a href='https://arxiv.org/abs/2107.06278'>[paper]</a> <a href='https://github.com/facebookresearch/MaskFormer'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[SETR] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers.</b></font>
+<br>
+<font size=2>Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip HS Torr, Li Zhang.</font>
+<br>
+<font size=2>CVPR 2021.</font>
+<a href='https://arxiv.org/abs/2012.15840'>[paper]</a> <a href='https://github.com/fudan-zvg/SETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[SegFormer] SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers.</b></font>
+<br>
+<font size=2>Enze Xie, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, Ping Luo.</font>
+<br>
+<font size=2>NuerIPS 2021.</font>
+<a href='https://arxiv.org/pdf/2105.15203.pdf'>[paper]</a> <a href='https://github.com/NVlabs/SegFormer'>[code]</a>    
 </p>
 
 
