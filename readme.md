@@ -283,6 +283,15 @@ arxiv 2022.
 
 ## 3D Object Detection
 <p>
+<font size=3><b>CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection.</b></font>
+<br>
+<font size=2>Yanan Zhang, Jiaxin Chen, Di Huang.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2204.00325'>[paper]</a> 
+</p>
+
+<p>
 <font size=3><b>TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers.</b></font>
 <br>
 <font size=2>Xuyang Bai, Zeyu Hu, Xinge Zhu, Qingqiu Huang, Yilun Chen, Hongbo Fu, Chiew-Lan Tai.</font>
@@ -371,6 +380,16 @@ arxiv 2022.
 <br>
 <font size=2>ICCV 2021.</font>
 <a href='https://arxiv.org/abs/2109.08141'>[paper]</a> <a href='https://github.com/facebookresearch/3detr'>[code]</a>    
+</p>
+
+
+<p>
+<font size=3><b>[PointTransformer] Point Transformer.</b></font>
+<br>
+<font size=2>Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun.</font>
+<br>
+<font size=2>ICCV 2021.</font>
+<a href='https://arxiv.org/pdf/2012.09164.pdf'>[paper]</a> <a href='https://github.com/POSTECH-CVLab/point-transformer'>[code]</a>    
 </p>
 
 <p>
