@@ -40,6 +40,15 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 </p>
 
 <p>
+<font size=3><b>Recurrent Glimpse-based Decoder for Detection with Transformer.</b></font>
+<br>
+<font size=2>Zhe Chen, Jing Zhang, Dacheng Tao.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2112.04632'>[paper]</a> <a href='https://github.com/zhechen/Deformable-DETR-REGO'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>AdaMixer: A Fast-Converging Query-Based Object Detector.</b></font>
 <br>
 <font size=2>Ziteng Gao, Limin Wang, Bing Han, Sheng Guo.</font>
