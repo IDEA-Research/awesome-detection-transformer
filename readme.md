@@ -297,6 +297,24 @@ arxiv 2022.
 <a href='https://arxiv.org/abs/2104.12763'>[paper]</a> <a href='https://github.com/ashkamath/mdetr'>[code]</a>    
 </p>
 
+<p>
+<font size=3><b>Class-agnostic Object Detection with Multi-modal Transformer.</b></font>
+<br>
+<font size=2>Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan, Rao Muhammad Anwer and Ming-Hsuan Yang.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2111.11430'>[paper]</a> <a href='https://github.com/mmaaz60/mvits_for_class_agnostic_od'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[Object Centric OVD] -- Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection.</b></font>
+<br>
+<font size=2>Hanoona Rasheed, Muhammad Maaz, Muhammad Uzair Khattak, Salman Khan, Fahad Shahbaz Khan.</font>
+<br>
+<font size=2>arXiv:2207.03482.</font>
+<a href='https://arxiv.org/abs/2207.03482'>[paper]</a> <a href='https://github.com/hanoonaR/object-centric-ovd'>[code]</a>    
+</p>
+
 
 ## 3D Object Detection
 <p>
