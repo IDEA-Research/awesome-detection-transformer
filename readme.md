@@ -345,6 +345,42 @@ arxiv 2022.
 
 ## 3D Object Detection
 <p>
+<font size=3><b>BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers.</b></font>
+<br>
+<font size=2>Zhiqi Li, Wenhai Wang, Hongyang Li, Enze Xie, Chonghao Sima, Tong Lu, Qiao Yu, Jifeng Dai.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.17270'>[paper]</a>  <a href='https://github.com/zhiqi-li/BEVFormer'>[code]</a> 
+</p>
+
+<p>
+<font size=3><b>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images.</b></font>
+<br>
+<font size=2>Yingfei Liu, Junjie Yan, Fan Jia, Shuailin Li, Qi Gao, Tiancai Wang, Xiangyu Zhang, Jian Sun.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2206.01256'>[paper]</a>  <a href='https://github.com/megvii-research/petr'>[code]</a> 
+</p>
+
+<p>
+<font size=3><b>PETR: Position Embedding Transformation for Multi-View 3D Object Detection.</b></font>
+<br>
+<font size=2>Yingfei Liu, Tiancai Wang, Xiangyu Zhang, Jian Sun.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.05625'>[paper]</a>  <a href='https://github.com/megvii-research/petr'>[code]</a> 
+</p>
+
+<p>
+<font size=3><b>BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs.</b></font>
+<br>
+<font size=2>Lang Peng, Zhirong Chen, Zhangjie Fu, Pengpeng Liang and Erkang Cheng.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/pdf/2203.04050.pdf'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection.</b></font>
 <br>
 <font size=2>Yanan Zhang, Jiaxin Chen, Di Huang.</font>
