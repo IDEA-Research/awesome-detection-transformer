@@ -11,7 +11,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 - [Papers](#papers)
   - [DETR](#detr)
   - [Object Detection](#object-detection)
-  - [Open Vocabulary Objection Detection](#open-vocabulary-objection-detection)
+  - [Open Vocabulary and Multi-Modal Objection Detection](#open-vocabulary-and-multi-modal-objection-detection)
   - [3D Object Detection](#3d-object-detection)
   - [Segmentation](#segmentation)
 - [Benchmarks](#benchmarks)
@@ -278,7 +278,16 @@ arxiv 2022.
 </p>
 
 
-## Open Vocabulary Object Detection
+## Open Vocabulary and Multi-Modal Objection Detection
+<p>
+<font size=3><b>Open-Vocabulary DETR with Conditional Matching Yuhang.</b></font>
+<br>
+<font size=2>Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.11876'>[paper]</a> <a href='https://github.com/yuhangzang/ov-detr'>[code]</a>    
+</p>
+
 <p>
 <font size=3><b>OW-DETR: Open-world Detection Transformer.</b></font>
 <br>
@@ -286,6 +295,24 @@ arxiv 2022.
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/pdf/2112.01513.pdf'>[paper]</a> <a href='https://github.com/akshitac8/OW-DETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Simple Open-Vocabulary Object Detection with Vision Transformers.</b></font>
+<br>
+<font size=2>Matthias Minderer, Alexey Gritsenko, Austin Stone, Maxim Neumann, Dirk Weissenborn, Alexey Dosovitskiy, Aravindh Mahendran, Anurag Arnab, Mostafa Dehghani, Zhuoran Shen, Xiao Wang, Xiaohua Zhai, Thomas Kipf, Neil Houlsby.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2205.06230'>[paper]</a>     
+</p>
+
+<p>
+<font size=3><b>X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks.</b></font>
+<br>
+<font size=2>Zhaowei Cai, Gukyeong Kwon, Avinash Ravichandran, Erhan Bas, Zhuowen Tu, Rahul Bhotika, Stefano Soatto.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2204.05626'>[paper]</a>     
 </p>
 
 <p>
