@@ -246,7 +246,7 @@ arxiv 2022.
 <font size=2>Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li .</font>
 <br>
 <font size=2>ICCV 2021.</font>
-<a href='https://arxiv.org/abs/2010.04159v4'>[paper]</a> <a href='https://github.com/gaopengcuhk/SMCA-DETR'>[code]</a>    
+<a href='https://arxiv.org/abs/2101.07448'>[paper]</a> <a href='https://github.com/gaopengcuhk/SMCA-DETR'>[code]</a>    
 </p>
 
 <p>
