@@ -501,6 +501,15 @@ arxiv 2022.
 
 ## Segmentation
 <p>
+<font size=3><b>[KMaX-DeepLab] k-means Mask Transformer.</b></font>
+<br>
+<font size=2>Qihang Yu, Huiyu Wang, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hatwig Adam, Alan Yuille, Liang-Chieh Chen.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2207.04044'>[paper]</a> <a href='https://github.com/google-research/deeplab2'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
 <br>
 <font size=2>Feng Li*, Hao Zhang*, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.</font>
@@ -516,6 +525,15 @@ arxiv 2022.
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2112.01527'>[paper]</a> <a href='https://github.com/facebookresearch/Mask2Former'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[CMT-DeepLab] CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation.</b></font>
+<br>
+<font size=2>Qihang Yu, Huiyu Wang, Dahun Kim, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/abs/2206.08948'>[paper]</a>
 </p>
 
 <p>
@@ -544,6 +562,15 @@ Transformers.</b></font>
 <br>
 <font size=2>CVPR 2021.</font>
 <a href='https://arxiv.org/abs/2012.15840'>[paper]</a> <a href='https://github.com/fudan-zvg/SETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[MaX-DeepLab] MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers.</b></font>
+<br>
+<font size=2>Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen.</font>
+<br>
+<font size=2>CVPR 2021.</font>
+<a href='https://arxiv.org/abs/2012.00759'>[paper]</a> <a href='https://github.com/google-research/deeplab2'>[code]</a>
 </p>
 
 <p>
