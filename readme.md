@@ -31,6 +31,24 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 ## Object Detection
 <p>
+<font size=3><b>Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment</b></font>
+<br>
+<font size=2>Qiang Chen, Xiaokang Chen, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Gang Zeng, Jingdong Wang</font>
+<br>
+<font size=2>arxiv.</font>
+<a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
+</p>
+
+<p>
+<font size=3><b>DETRs with Hybrid Matching.</b></font>
+<br>
+<font size=2>Ding Jia, Yuhui Yuan, Haodi He, Xiaopei Wu, Haojun Yu, Weihong Lin, Lei Sun, Chao Zhang, Han Hu</font>
+<br>
+<font size=2>arxiv.</font>
+<a href='https://arxiv.org/abs/2207.13080'>[paper]</a> <a href='https://github.com/HDETR/H-Deformable-DETR'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
 <br>
 <font size=2>Feng Li*, Hao Zhang*, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.</font>
