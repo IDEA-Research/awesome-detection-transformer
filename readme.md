@@ -31,11 +31,20 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 ## Object Detection
 <p>
+<font size=3><b>Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion</b></font>
+<br>
+<font size=2>Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2207.14172'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>  
+</p>
+
+<p>
 <font size=3><b>Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment</b></font>
 <br>
 <font size=2>Qiang Chen, Xiaokang Chen, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Gang Zeng, Jingdong Wang</font>
 <br>
-<font size=2>arxiv.</font>
+<font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
 </p>
 
@@ -44,7 +53,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <br>
 <font size=2>Ding Jia, Yuhui Yuan, Haodi He, Xiaopei Wu, Haojun Yu, Weihong Lin, Lei Sun, Chao Zhang, Han Hu</font>
 <br>
-<font size=2>arxiv.</font>
+<font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.13080'>[paper]</a> <a href='https://github.com/HDETR/H-Deformable-DETR'>[code]</a>    
 </p>
 
@@ -53,8 +62,26 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <br>
 <font size=2>Feng Li*, Hao Zhang*, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.</font>
 <br>
-<font size=2>arxiv.</font>
+<font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/pdf/2206.02777.pdf'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[MIMDet] Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection.</b></font>
+<br>
+<font size=2>Yuxin Fang*, Shusheng Yang*, Shijie Wang*, Yixiao Ge, Ying Shan, Xinggang Wang</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2204.02964'>[paper]</a> <a href='https://github.com/hustvl/MIMDet'>[code]</a>  
+</p>
+
+<p>
+<font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a>  
 </p>
 
 <p>
@@ -75,23 +102,6 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <a href='https://arxiv.org/abs/2203.16507'>[paper]</a> <a href='https://github.com/MCG-NJU/AdaMixer'>[code]</a>    
 </p>
 
-<p>
-<font size=3><b>[MIMDet] Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection.</b></font>
-<br>
-<font size=2>Yuxin Fang*, Shusheng Yang*, Shijie Wang*, Yixiao Ge, Ying Shan, Xinggang Wang</font>
-<br>
-arxiv 2022.
-<a href='https://arxiv.org/abs/2204.02964'>[paper]</a> <a href='https://github.com/hustvl/MIMDet'>[code]</a>  
-</p>
-
-<p>
-<font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
-<br>
-<font size=2>Hao Zhang*, Feng Li*, Shilong Liu*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
-<br>
-arxiv 2022.
-<a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a>  
-</p>
 
 <p>
 <font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
@@ -519,21 +529,21 @@ arxiv 2022.
 
 ## Segmentation
 <p>
-<font size=3><b>[KMaX-DeepLab] k-means Mask Transformer.</b></font>
-<br>
-<font size=2>Qihang Yu, Huiyu Wang, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hatwig Adam, Alan Yuille, Liang-Chieh Chen.</font>
-<br>
-<font size=2>ECCV 2022.</font>
-<a href='https://arxiv.org/abs/2207.04044'>[paper]</a> <a href='https://github.com/google-research/deeplab2'>[code]</a>
-</p>
-
-<p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
 <br>
 <font size=2>Feng Li*, Hao Zhang*, Huaizhe xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.</font>
 <br>
 <font size=2>arxiv.</font>
 <a href='https://arxiv.org/pdf/2206.02777.pdf'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>[KMaX-DeepLab] k-means Mask Transformer.</b></font>
+<br>
+<font size=2>Qihang Yu, Huiyu Wang, Siyuan Qiao, Maxwell Collins, Yukun Zhu, Hatwig Adam, Alan Yuille, Liang-Chieh Chen.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2207.04044'>[paper]</a> <a href='https://github.com/google-research/deeplab2'>[code]</a>
 </p>
 
 <p>
