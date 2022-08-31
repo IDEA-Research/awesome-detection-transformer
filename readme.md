@@ -31,6 +31,15 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 ## Object Detection
 <p>
+<font size=3><b>Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors</b></font>
+<br>
+<font size=2>Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Zichen Tian, Jingyi Zhang, Shijian Lu</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2208.11356'>[paper]</a> <a href='https://github.com/ZhangGongjie/IMFA'>[code]</a>  
+</p>
+
+<p>
 <font size=3><b>Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion</b></font>
 <br>
 <font size=2>Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Jiaxing Huang, Kaiwen Cui, Shijian Lu, Eric P. Xing</font>
