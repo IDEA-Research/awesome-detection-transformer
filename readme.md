@@ -19,9 +19,14 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 - [Acknowledgements](#acknowledgements)
 
 # Toolbox
-[**detrex**]('https://github.com/IDEA-Research/detrex'): A toolbox dedicated for Transforme-based object detectors including DETR, Deformable DETR, DAB-DETR, DN-DETR, DINO, etc.
+<p>
+<font size=3><a href='https://github.com/IDEA-Research/detrex'><b>detrex</b></a></font>: A toolbox dedicated for Transforme-based object detectors including DETR, Deformable DETR, DAB-DETR, DN-DETR, DINO, etc.
+</p>
 
-[**mmdetection**]('https://github.com/open-mmlab/mmdetection'): An open source object detection toolbox including DETR and Deformable DETR.
+<p>
+<font size=3><a href='https://github.com/open-mmlab/mmdetection'><b>mmdetection</b></a></font>: An open source object detection toolbox including DETR and Deformable DETR.
+</p>
+
 
 # Papers
 
