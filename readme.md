@@ -402,6 +402,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark.</b></font>
+<br>
+<font size=2>Li Chen, Chonghao Sima, Yang Li, Zehan Zheng, Jiajie Xu, Xiangwei Geng, Hongyang Li†, Conghui He, Jianping Shi, Yu Qiao, Junchi Yan.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.11089'>[paper]</a>  <a href='https://github.com/OpenPerceptionX/PersFormer_3DLane'>[code]</a> 
+</p>
+
+<p>
 <font size=3><b>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images.</b></font>
 <br>
 <font size=2>Yingfei Liu, Junjie Yan, Fan Jia, Shuailin Li, Qi Gao, Tiancai Wang, Xiangyu Zhang, Jian Sun.</font>
