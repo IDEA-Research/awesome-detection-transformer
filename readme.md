@@ -42,6 +42,15 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 ## Object Detection
 <p>
+<font size=3><b>Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining
+</b></font>
+<br>
+<font size=2>Qiang Chen, Jian Wang, Chuchu Han, Shan Zhang, Zexian Li, Xiaokang Chen, Jiahui Chen, Xiaodi Wang, Shuming Han, Gang Zhang, Haocheng Feng, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2211.03594'>[paper]</a> 
+</p>
+<p>
 <font size=3><b>Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors</b></font>
 <br>
 <font size=2>Gongjie Zhang, Zhipeng Luo, Yingchen Yu, Zichen Tian, Jingyi Zhang, Shijian Lu</font>
