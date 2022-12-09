@@ -42,6 +42,16 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 
 ## Object Detection
 <p>
+<font size=3><b>DETRs with Collaborative Hybrid Assignments Training
+</b></font>
+<br>
+<font size=2>Zhuofan Zong, Guanglu Song, Yu Liu.</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<a href='https://arxiv.org/abs/2211.12860'>[paper]</a> <a href='https://github.com/Sense-X/Co-DETR'>[code]</a>  
+</p>
+
+<p>
 <font size=3><b>Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining
 </b></font>
 <br>
@@ -50,6 +60,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2211.03594'>[paper]</a> 
 </p>
+
 <p>
 <font size=3><b>Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors</b></font>
 <br>
@@ -120,6 +131,15 @@ arxiv 2022.
 <br>
 <font size=2>CVPR 2022.</font>
 <a href='https://arxiv.org/abs/2112.04632'>[paper]</a> <a href='https://github.com/zhechen/Deformable-DETR-REGO'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>Towards Data-Efficient Detection Transformers.</b></font>
+<br>
+<font size=2>Wen Wang, Jing Zhang, Yang Cao, Yongliang Shen, Dacheng Tao.</font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2203.09507'>[paper]</a> <a href='https://github.com/encounter1997/DE-CondDETR'>[code]</a>    
 </p>
 
 <p>
