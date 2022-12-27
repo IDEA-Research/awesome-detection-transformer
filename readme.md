@@ -393,6 +393,15 @@ arxiv 2022.
 </p>
 
 <p>
+<font size=3><b>GRiT: A Generative Region-to-text Transformer for Object Understanding.</b></font>
+<br>
+<font size=2>Jialian Wu, Jianfeng Wang, Zhengyuan Yang, Zhe Gan, Zicheng Liu, Junsong Yuan, Lijuan Wang</font>
+<br>
+arxiv 2022.
+<a href='https://arxiv.org/abs/2212.00280'>[paper]</a> <a href='https://github.com/JialianW/GRiT'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding.</b></font>
 <br>
 <font size=2>Aishwarya Kamath, Mannat Singh, Yann LeCun, Gabriel Synnaeve, Ishan Misra, Nicolas Carion.</font>
