@@ -355,7 +355,33 @@ arxiv 2022.
 </p>
 
 
-## Open Vocabulary and Multi-Modal Objection Detection
+## Open-Vocabulary (Open-set) and Multi-Modal Objection Detection
+<p>
+<font size=3><b>OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection.</b></font>
+<br>
+<font size=2>Hao Zhang*, Feng Li*, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.</font>
+<br>
+<font size=2>preprint.</font>
+<a href='https://arxiv.org/abs/2303.08131'>[paper]</a> <a href='https://github.com/IDEA-Research/OpenSeeD'>[code]</a>    
+</p>
+<p>
+<font size=3><b>SEEM: Segment Everything Everywhere All at Once.</b></font>
+<br>
+<font size=2>Xueyan Zou*, Jianwei Yang*, Hao Zhang*, Feng Li*, Linjie Li, Jianfeng Gao, Yong Jae Lee.</font>
+<br>
+<font size=2>preprint.</font>
+<a href='https://arxiv.org/abs/2304.06718'>[paper]</a> <a href='https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>X-Decoder: Generalized Decoding for Pixel, Image, and Language.</b></font>
+<br>
+<font size=2>Xueyan Zou* , Zi-Yi Dou*, Jianwei Yang*, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/pdf/2212.11270.pdf'>[paper]</a> <a href='https://x-decoder-vl.github.io'>[code]</a>    
+</p>
+
 <p>
 <font size=3><b>Open-Vocabulary DETR with Conditional Matching Yuhang.</b></font>
 <br>
