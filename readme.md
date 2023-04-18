@@ -457,6 +457,15 @@ arxiv 2022.
 
 ## 3D Object Detection
 <p>
+<font size=3><b>[Focused Decoder] Focused Decoding Enables 3D Anatomical Detection by Transformers.</b></font>
+<br>
+<font size=2>Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze</font>
+<br>
+<font size=2>MELBA Feb. 2023.</font>
+<a href='https://www.melba-journal.org/papers/2023:003.html'>[paper]</a> <a href='https://github.com/bwittmann/transoar'>[code]</a>    
+</p>
+
+<p>
 <font size=3><b>BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers.</b></font>
 <br>
 <font size=2>Zhiqi Li, Wenhai Wang, Hongyang Li, Enze Xie, Chonghao Sima, Tong Lu, Qiao Yu, Jifeng Dai.</font>
