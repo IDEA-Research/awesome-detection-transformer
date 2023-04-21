@@ -15,6 +15,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
   - [Open Vocabulary and Multi-Modal Objection Detection](#open-vocabulary-and-multi-modal-objection-detection)
   - [3D Object Detection](#3d-object-detection)
   - [Segmentation](#segmentation)
+  - [Pose Estimation](#pose-estimation)
 - [Benchmarks](#benchmarks)
 - [Acknowledgements](#acknowledgements)
 
@@ -712,6 +713,36 @@ Transformers.</b></font>
 <a href='https://arxiv.org/pdf/2105.15203.pdf'>[paper]</a> <a href='https://github.com/NVlabs/SegFormer'>[code]</a>    
 </p>
 
+## Pose Estimation
+
+<p>
+<font size=3><b>[PETR] End-to-End Multi-Person Pose Estimation with Transformers.</b></font>
+<br>
+<font size=2>Dahu Shi, Xing Wei, Liangqi Li, Ye Ren, Wenming Tan.</font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf'>[paper]</a> <a href='https://github.com/hikvision-research/opera/tree/main/configs/petr'>[code]</a>
+</p>
+
+
+<p>
+<font size=3><b>[ED-Pose] Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation.</b></font>
+<br>
+<font size=2>Jie Yang, Ailing Zeng, Shilong Liu, Feng Li, Ruimao Zhang, Lei Zhang.</font>
+<br>
+<font size=2>ICLR 2023.</font>
+<a href='https://arxiv.org/pdf/2302.01593.pdf'>[paper]</a> <a href='https://github.com/IDEA-Research/ED-Pose'>[code]</a>    
+</p>
+
+
+<p>
+<font size=3><b>[OSX] One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer.</b></font>
+<br>
+<font size=2>Jing Lin, Ailing Zeng, Haoqian Wang, Lei Zhang, Yu Li.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/pdf/2303.16160'>[paper]</a> <a href='https://github.com/IDEA-Research/OSX'>[code]</a>    
+</p>
 
 # Benchmarks
 [COCO Detection on Paperswithcode.](https://paperswithcode.com/sota/object-detection-on-coco)
@@ -720,9 +751,14 @@ Transformers.</b></font>
 
 [COCO Panoptic Segmentation on Paperswithcode.](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev)
 
+[COCO Pose Estimation on Paperswithcode.](https://paperswithcode.com/sota/pose-estimation-on-coco-test-dev)
+
+[CrowdPose Pose Estimation on Paperswithcode.](https://paperswithcode.com/sota/pose-estimation-on-crowdpose)
+
 [Semantic Segmentation on Paperswithcode.](https://paperswithcode.com/task/semantic-segmentation)
 
 [3D Object Detection on Paperswithcode.](https://paperswithcode.com/task/3d-object-detection)
+
 
 
 
