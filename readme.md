@@ -15,6 +15,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
   - [Open Vocabulary and Multi-Modal Objection Detection](#open-vocabulary-and-multi-modal-objection-detection)
   - [3D Object Detection](#3d-object-detection)
   - [Segmentation](#segmentation)
+  - [Pose Estimation](#pose-estimation)
 - [Benchmarks](#benchmarks)
 - [Acknowledgements](#acknowledgements)
 
