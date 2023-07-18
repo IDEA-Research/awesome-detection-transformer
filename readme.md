@@ -42,6 +42,27 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 </p>
 
 ## Object Detection
+
+<p>
+<font size=3><b>Detection Transformer with Stable Matching
+</b></font>
+<br>
+<font size=2>Shilong Liu, Tianhe Ren, Jiayu Chen, Zhaoyang Zeng, Hao Zhang, Feng Li, Hongyang Li, Jun Huang, Hang Su, Jun Zhu, Lei Zhang.</font>
+<br>
+<font size=2>ICCV 2023.</font>
+<a href='https://arxiv.org/abs/2304.04742'>[paper]</a> <a href='https://github.com/IDEA-Research/Stable-DINO'>[code]</a>  
+</p>
+
+<p>
+<font size=3><b>SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency
+</b></font>
+<br>
+<font size=2>Yang Liu, Yao Zhang, Yixin Wang, Yang Zhang, Jiang Tian, Zhongchao Shi, Jianping Fan, Zhiqiang He.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/abs/2211.02006'>[paper]</a> <a href='https://github.com/liuyang-ict/SAP-DETR'>[code]</a>  
+</p>
+
 <p>
 <font size=3><b>DETRs with Collaborative Hybrid Assignments Training
 </b></font>
