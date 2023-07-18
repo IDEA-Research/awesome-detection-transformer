@@ -54,13 +54,12 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 </p>
 
 <p>
-<font size=3><b>SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency
-</b></font>
+<font size=3><b>Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment</b></font>
 <br>
-<font size=2>Yang Liu, Yao Zhang, Yixin Wang, Yang Zhang, Jiang Tian, Zhongchao Shi, Jianping Fan, Zhiqiang He.</font>
+<font size=2>Qiang Chen, Xiaokang Chen, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Gang Zeng, Jingdong Wang</font>
 <br>
-<font size=2>CVPR 2023.</font>
-<a href='https://arxiv.org/abs/2211.02006'>[paper]</a> <a href='https://github.com/liuyang-ict/SAP-DETR'>[code]</a>  
+<font size=2>ICCV 2023.</font>
+<a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
 </p>
 
 <p>
@@ -69,8 +68,18 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <br>
 <font size=2>Zhuofan Zong, Guanglu Song, Yu Liu.</font>
 <br>
-<font size=2>arxiv 2022.</font>
+<font size=2>ICCV 2023.</font>
 <a href='https://arxiv.org/abs/2211.12860'>[paper]</a> <a href='https://github.com/Sense-X/Co-DETR'>[code]</a>  
+</p>
+
+<p>
+<font size=3><b>SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency
+</b></font>
+<br>
+<font size=2>Yang Liu, Yao Zhang, Yixin Wang, Yang Zhang, Jiang Tian, Zhongchao Shi, Jianping Fan, Zhiqiang He.</font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/abs/2211.02006'>[paper]</a> <a href='https://github.com/liuyang-ict/SAP-DETR'>[code]</a>  
 </p>
 
 <p>
@@ -99,15 +108,6 @@ If you find some overlooked papers or resourses, please open issues or pull requ
 <br>
 <font size=2>arxiv 2022.</font>
 <a href='https://arxiv.org/abs/2207.14172'>[paper]</a> <a href='https://github.com/ZhangGongjie/SAM-DETR'>[code]</a>  
-</p>
-
-<p>
-<font size=3><b>Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment</b></font>
-<br>
-<font size=2>Qiang Chen, Xiaokang Chen, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, Gang Zeng, Jingdong Wang</font>
-<br>
-<font size=2>arxiv 2022.</font>
-<a href='https://arxiv.org/abs/2207.13085'>[paper]</a> 
 </p>
 
 <p>
