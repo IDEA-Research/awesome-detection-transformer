@@ -478,13 +478,23 @@ arxiv 2022.
 
 
 ## 3D Object Detection
+
+<p>
+<font size=3><b>NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields.</b></font>
+<br>
+<font size=2>Muhammad Zubair Irshad, Sergey Zakharov, Vitor Guizilini, Adrien Gaidon, Zsolt Kira, Rares Ambrus</font>
+<br>
+<font size=2>ECCV 2024.</font>
+<a href='https://www.melba-journal.org/papers/2023:003.html'>[paper]</a> <a href='https://github.com/bwittmann/transoar'>[code]</a>    
+</p>
+
 <p>
 <font size=3><b>[Focused Decoder] Focused Decoding Enables 3D Anatomical Detection by Transformers.</b></font>
 <br>
 <font size=2>Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze</font>
 <br>
 <font size=2>MELBA Feb. 2023.</font>
-<a href='https://www.melba-journal.org/papers/2023:003.html'>[paper]</a> <a href='https://github.com/bwittmann/transoar'>[code]</a>    
+<a href='https://arxiv.org/pdf/2404.01300'>[paper]</a> <a href='[https://github.com/bwittmann/transoar](https://github.com/zubair-irshad/NeRF-MAE)'>[code]</a>    
 </p>
 
 <p>
