@@ -16,6 +16,7 @@ If you find some overlooked papers or resourses, please open issues or pull requ
   - [3D Object Detection](#3d-object-detection)
   - [Segmentation](#segmentation)
   - [Pose Estimation](#pose-estimation)
+  - [Temporal Action Detection](#temporal-action-detection)
 - [Benchmarks](#benchmarks)
 - [Acknowledgements](#acknowledgements)
 
@@ -763,6 +764,17 @@ Transformers.</b></font>
 <br>
 <font size=2>CVPR 2023.</font>
 <a href='https://arxiv.org/pdf/2303.16160'>[paper]</a> <a href='https://github.com/IDEA-Research/OSX'>[code]</a>    
+</p>
+
+## Temporal Action Detection
+
+<p>
+<font size=3><b>Dual DETRs for Multi-Label Temporal Action Detection.</b></font>
+<br>
+<font size=2>Yuhan Zhu, Guozhen Zhang, Jing Tan, Gangshan Wu, Limin Wang.</font>
+<br>
+<font size=2>CVPR 2024.</font>
+<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html">[paper]</a>
 </p>
 
 # Benchmarks
